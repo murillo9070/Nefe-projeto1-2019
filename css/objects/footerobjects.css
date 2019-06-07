@@ -1,0 +1,23 @@
+.myapp-footer > .content > .scarab > .photo {
+    height: 250px;
+    transform: translate(-100px,-70px);
+}
+
+.myapp-footer > .content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.content > .direitos > .title {
+    font-size: 2.25em;
+    color: #fff;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.content > .direitos > .direito {
+    font-size: 1.25em;
+    color: #fff;
+}
