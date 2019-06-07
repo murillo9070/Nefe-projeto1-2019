@@ -4,14 +4,14 @@
     margin: 0;
 }
 
-.color-mobile{
+.color-mobile {
     background-color: rgba(0, 0, 0, 0.8) !important;
 }
 
-._hiddentop{
-    top: -9999999999;
+._hiddentop {
+    top: -99999999px;
 }
 
 ._activemenu {
-    top: 60px;
+    top: 72.5px;
 }
