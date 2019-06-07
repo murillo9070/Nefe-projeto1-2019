@@ -22,7 +22,7 @@
     color: #fff;
 }
 
-@media(max-width: 685px) {
+@media(max-width: 1137px) {
     .myapp-footer > .content > .scarab > .photo{
         height: 150px;
     }
