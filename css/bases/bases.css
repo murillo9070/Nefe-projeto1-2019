@@ -11,3 +11,40 @@ body {
     font-size: 1.25em;
     padding-left: 5px;
 }
+
+.btngit{
+    padding: 50px;
+}
+
+.github{
+    background-color: transparent;
+    color: #fff;
+    font-size: 1.25em;
+    font-weight: bold;
+    border: solid 3px #fff;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    transition: 250ms;
+}
+
+.github:hover{
+    background-color: #fff;
+    color: black;
+}
+
+.creditos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #424242;
+    margin: 0;
+}
+
+.creditos > .link{
+    color: #fff;
+    font-size: 1.23em;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+}

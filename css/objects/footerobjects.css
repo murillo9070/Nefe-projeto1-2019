@@ -21,3 +21,23 @@
     font-size: 1.25em;
     color: #fff;
 }
+
+@media(max-width: 685px) {
+    .myapp-footer > .content > .scarab > .photo{
+        height: 150px;
+    }
+    .myapp-footer > .content{
+        flex-direction: column;
+        padding-bottom: 30px;
+    }
+    .myapp-footer > .content > .scarab > .photo {
+        height: 200px;
+        transform: translate(0px,-70px);
+    }
+}
+
+@media(max-width: 439px) {
+    .myapp-footer > .content{
+        text-align: center;
+    }
+}
