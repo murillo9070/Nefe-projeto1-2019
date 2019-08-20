@@ -8,10 +8,8 @@
     background-color: rgba(0, 0, 0, 0.8) !important;
 }
 
-._hiddentop {
-    top: -99999999px;
-}
-
 ._activemenu {
-    top: 72.5px;
+    height: 100% !important;
+    overflow: inherit !important;
+    transform: translateY(0px) !important;
 }
